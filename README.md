@@ -61,5 +61,5 @@ This project answers the following analytical questions:
 
 ---
 This project is a hands-on way to improve your SQL analytics skills by solving real-world style problems using a structured dataset.
-
+Here Raw Data can be seen in the Ig clone dataset directory(file name is ig_db.sql). Sql queries can be viewed in MySql File (SQL ig clone.sql).
 Happy Learning!
